@@ -13,11 +13,11 @@ const tambahan = require("./lib/tambahan.js")
 const donasi = require("./lib/donasi.js");
 const info = require("./lib/info.js");
 /////////////////
-const BotName = 'REUZ BOT☄'; 
-const instagram = 'https://instagram.com/reuz.id'; 
-const telegram = 'https://t.me/reuzzz'; 
+const BotName = 'BASTIARXPLOIT BOT☄'; 
+const instagram = 'https://instagram.com/bastiar_404'; 
+const telegram = 'https://t.me/BASTIARXPLOIT'; 
 const kapanbotaktif = 'KETIKA HANYA DIAKTIFKAN'; 
-const youtube = 'https://www.youtube.com/c/reuz_id';
+const youtube = 'https://www.youtube.com/c/cyberblackhunter';
 //const grupch1 = 'belum ada grup'; 
 //const grupch2 = 'belum ada grup' ; 
 const
